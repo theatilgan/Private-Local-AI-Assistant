@@ -35,10 +35,10 @@ def parse_arguments() -> argparse.Namespace:
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  python main_professional.py                    # Interactive mode
-  python main_professional.py -q "mobile app development"  # Quick query
-  python main_professional.py --test             # Service tests
-  python main_professional.py --init             # Initialize database
+  python main.py                    # Interactive mode
+  python main.py -q "mobile app development"  # Quick query
+  python main.py --test             # Service tests
+  python main.py --init             # Initialize database
         """
     )
     
