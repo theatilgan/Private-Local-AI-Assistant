@@ -233,7 +233,7 @@ Use GitHub Issues for bug reports.
 ## 📞 Contact
 
 - **Developer**: [Atılgan Aktaş]
-- **Email**: [atilganaktas@example.com]
+- **Email**: [atilganaktas@gmail.com]
 - **GitHub**: [github.com/theatilgan]
 
 ---
