@@ -26,7 +26,7 @@ AI-powered course and PDF document recommendation system. Extracts keywords from
 1. **Clone the repository:**
 ```bash
 git clone <repository-url>
-cd StajProjesi
+cd Private-Local-AI-Assistant
 ```
 
 2. **Install dependencies:**
