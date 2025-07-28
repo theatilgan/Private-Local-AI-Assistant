@@ -1,0 +1,20 @@
+# AI ve ML kütüphaneleri
+ollama>=0.1.0
+
+# PDF işleme kütüphaneleri
+PyPDF2>=3.0.0
+PyMuPDF>=1.23.0  # fitz modülü için
+
+# Veritabanı kütüphaneleri (SQLite Python'da built-in)
+
+# Logging ve utility kütüphaneleri
+colorama>=0.4.6  # Renkli terminal çıktısı için
+
+# Test kütüphaneleri (opsiyonel)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Development kütüphaneleri (opsiyonel)
+black>=23.0.0  # Kod formatı
+flake8>=6.0.0  # Linting
+mypy>=1.0.0    # Type checking 
